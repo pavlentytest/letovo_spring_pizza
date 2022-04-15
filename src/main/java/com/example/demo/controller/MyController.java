@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 @Controller
 public class MyController {
 
-
-    // sdfgsdgsdfgsgsdfg
+// добавил комментарий
+    
     @Autowired
     PizzaRespository respository;
 
